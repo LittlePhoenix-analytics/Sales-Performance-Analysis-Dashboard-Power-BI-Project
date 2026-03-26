@@ -83,7 +83,7 @@ Focused on converting insights into business decisions.
 
 ## 📸 Dashboard Preview
 
-(![Regional Performance Dashboard](https://github.com/user-attachments/assets/6cf0f759-8e98-44f1-bace-ae7a6183d75c)
+![Regional Performance Dashboard](https://github.com/user-attachments/assets/6cf0f759-8e98-44f1-bace-ae7a6183d75c)
 ![Product Trends Dashboard](https://github.com/user-attachments/assets/afd6b812-79bf-42de-a9b3-9bab37aa2917)
 ![Order Priorities Dashboard](https://github.com/user-attachments/assets/c3c4a5df-4f6c-43d7-93ae-289d01a8c969)
 ![Sales Channels Dashboard-1](https://github.com/user-attachments/assets/4512d587-9fe1-4c63-902d-30b6c826335f)
