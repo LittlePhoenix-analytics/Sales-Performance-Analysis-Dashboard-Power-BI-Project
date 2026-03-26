@@ -101,6 +101,12 @@ This project highlights the importance of data storytelling in transforming raw 
 
 ---
 
+## 📂 Project File
+
+Download Power BI file and Dataset here:
+👉 [Click to View / Download](https://drive.google.com/file/d/1-IpGfBJvcd65aI25K7RYF7zYjOte3WJJ/view?usp=sharing)
+👉 [Click to View / Download](https://docs.google.com/spreadsheets/d/1OBv4wAtYcdsPwPidM38magsCioLK4zbF/edit?usp=sharing&ouid=107354122087148934227&rtpof=true&sd=true)
+
 ## 📌 Note
 
 Detailed step-by-step implementation available upon request.
